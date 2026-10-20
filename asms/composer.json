@@ -1,0 +1,8 @@
+{
+  "name": "asms/asms",
+  "description": "Aviation Safety Management System",
+  "require": {
+    "tecnickcom/tcpdf": "^6.4",
+    "phpoffice/phpspreadsheet": "^1.29"
+  }
+}
